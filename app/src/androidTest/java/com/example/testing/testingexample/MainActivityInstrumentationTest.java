@@ -17,7 +17,23 @@ import static android.support.test.espresso.matcher.ViewMatchers.withId;
 import static android.support.test.espresso.matcher.ViewMatchers.withText;
 
 /**
- * Created by on 15/6/4.
+ * Created  by shanlianting
+ *
+ *
+ * @runwith 的意思是啥？
+ *
+ * @largetest 的意思是啥？
+ *
+ * @rule 的意思是啥？
+ *
+ * @test 的意思是啥？
+ *
+ * onView的意思是啥？
+ *
+ * preform的意思是啥？
+ *
+ * check的意思是啥？
+ *
  */
 
 @RunWith(AndroidJUnit4.class)
